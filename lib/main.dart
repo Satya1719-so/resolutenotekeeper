@@ -1,9 +1,6 @@
 //import 'package:expencetracker/model/Notes.dart';
 import 'package:flutter/material.dart';
 import 'package:notekeeper/Splash.dart';
-import 'package:notekeeper/model/notes.dart';
-import 'package:notekeeper/signuppage.dart';
-//import 'package:flutter/services.dart';
 
 var kDarkColor = ColorScheme.fromSeed(
   seedColor: Colors.black,
